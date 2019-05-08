@@ -1,4 +1,4 @@
-[{
+{"details":[{
   "isSelected": true,
   "accountId": "012345678910",
   "alias": "yeti1",
@@ -12,3 +12,4 @@
   "version": "1.x",
   "lastUpdated":"2019-01-01 00:00:00z"
 }]
+}
